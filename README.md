@@ -9,7 +9,7 @@ This contract is written in Solidity language, a programming language used for d
 ## Execution program
 
 To run this code, first go to https://faucets.chain.link/ and claim free fuji testnet avax faucet using login via github. 
-Now Head towards remix or hardhat as per your intreset, in this project remix was used for its ease.
+Now Head towards remixIDE or hardhat as per your intreset, in this project remix was used for its ease.
 create a new ```MyContract.sol``` file and copy the content of ```DegenToken.sol``` into it.
 In left side go to compile tab and choose the compatible compiler.
 Then in deploy section choose injection wallet (metamast, phantom, etc.).
